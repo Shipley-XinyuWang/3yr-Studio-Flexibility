@@ -12,8 +12,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 minima:
   skin: "dark"
 header_pages:
-  - Projects.md
-  - about.md
+  -Projects.md
+  -about.md
   # generate social links in footer
   social_links:
     twitter: jekyllrb

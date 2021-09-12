@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" viewBox="0 0 750 750" enable-background="new 0 0 750 750" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="8402" width="8011.834" x="-2834" y="-3450"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="FILL-BACKGROUND">
+	<rect fill="#FFFFFF" width="750" height="750"/>
+</g>
+<g id="N-TEXT">
+</g>
+<g id="AG-DIAGRAM">
+	<g id="POLYLINE_1010_">
+		<g>
+			<g>
+				<path fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="M537.136,243.292
+					c0-0.833,0-1.667,0.001-2.5"/>
+				
+					<path fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5.0849,5.0849" d="
+					M537.142,235.707c0.002-2.511,0.002-5.023-0.006-7.534c-0.013-4.401-0.46-8.797-1.554-13.067
+					c-1.116-4.353-2.894-8.527-5.333-12.305c-2.482-3.845-5.615-7.238-9.156-10.13c-2.747-2.243-5.74-4.09-8.786-5.866"/>
+				<path fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="M510.102,185.533
+					c-0.385-0.222-0.771-0.443-1.156-0.666c-0.337-0.195-0.675-0.389-1.012-0.584"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_1009_">
+		<g>
+			<g>
+				<path fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="M280.159,315.789
+					c0.723,0.417,1.446,0.832,2.167,1.247"/>
+				
+					<path fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.9369,4.9369" d="
+					M286.581,319.545c3.206,1.962,6.297,4.082,9.086,6.679c4.438,4.131,7.992,9.149,10.289,14.768
+					c2.31,5.652,3.319,11.752,3.4,17.839c0.034,2.551,0.005,5.103,0.005,7.654c0,6.284,0,12.568,0,18.851c0,8.804,0,17.609,0,26.413
+					c0,9.715,0,19.429,0,29.144c0,9.237,0,18.473,0,27.71c0,7.146,0,14.293,0,21.439c0,2.078-0.015,4.157-0.019,6.236"/>
+				<path fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="M309.345,498.746
+					c0.003,0.675,0.008,1.349,0.017,2.023c0.002,0.159,0,0.317,0,0.476c0.722-0.417,1.443-0.833,2.165-1.25"/>
+				
+					<path fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3.3913,3.3913" d="
+					M314.463,498.3c1.469-0.848,2.937-1.696,4.405-2.543"/>
+				<path fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="M320.337,494.909
+					c0.722-0.417,1.443-0.833,2.165-1.25"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_1008_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" x1="400.094" y1="122.021" x2="397.928" y2="120.771"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.8,4.8" x1="393.771" y1="118.371" x2="296.084" y2="61.971"/>
+				<polyline fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" points="
+					294.005,60.771 291.84,59.521 289.675,60.771 				"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5.0591,5.0591" x1="285.294" y1="63.301" x2="68.421" y2="188.512"/>
+				<polyline fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" points="
+					66.23,189.777 64.065,191.027 66.23,192.277 				"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.8,4.8" x1="70.387" y1="194.677" x2="168.075" y2="251.077"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" x1="170.154" y1="252.277" x2="172.319" y2="253.527"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_1007_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" x1="537.136" y1="511.362" x2="534.971" y2="512.612"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.9559,4.9559" x1="530.679" y1="515.09" x2="326.813" y2="632.792"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" x1="324.667" y1="634.031" x2="322.502" y2="635.281"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="AG-BUILDINGS">
+	<g id="POLYLINE_1006_">
+		
+			<polyline fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			507.934,184.283 400.093,122.021 172.319,253.527 280.159,315.789 		"/>
+	</g>
+	<g id="POLYLINE_1005_">
+		
+			<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="537.136" y1="369.74" x2="322.502" y2="493.659"/>
+	</g>
+	<g id="POLYLINE_1004_">
+		
+			<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="537.136" y1="369.74" x2="537.136" y2="243.292"/>
+	</g>
+</g>
+<g id="AG-WALLS">
+	<g id="POLYLINE_1000_">
+		
+			<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="216.645" y1="352.459" x2="629.852" y2="113.894"/>
+	</g>
+	<g id="POLYLINE_999_">
+		
+			<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="642.993" y1="121.481" x2="229.786" y2="360.046"/>
+	</g>
+	<g id="POLYLINE_998_">
+		
+			<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="550.277" y1="235.705" x2="322.502" y2="367.211"/>
+	</g>
+	<g id="POLYLINE_997_">
+		
+			<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="642.993" y1="465.419" x2="550.277" y2="518.949"/>
+	</g>
+	<g id="POLYLINE_996_">
+		
+			<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="629.852" y1="113.894" x2="642.993" y2="121.481"/>
+	</g>
+	<g id="POLYLINE_995_">
+		
+			<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="642.993" y1="465.419" x2="642.993" y2="121.481"/>
+	</g>
+	<g id="POLYLINE_994_">
+		
+			<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="537.136" y1="511.362" x2="537.136" y2="369.74"/>
+	</g>
+	<g id="POLYLINE_993_">
+		
+			<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="550.277" y1="518.949" x2="537.136" y2="511.362"/>
+	</g>
+	<g id="POLYLINE_992_">
+		
+			<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="550.277" y1="518.949" x2="550.277" y2="235.705"/>
+	</g>
+	<g id="POLYLINE_991_">
+		
+			<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="322.502" y1="650.455" x2="229.786" y2="703.984"/>
+	</g>
+	<g id="POLYLINE_990_">
+		
+			<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="322.502" y1="650.455" x2="322.502" y2="367.211"/>
+	</g>
+	<g id="POLYLINE_989_">
+		
+			<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="229.786" y1="703.984" x2="229.786" y2="360.046"/>
+	</g>
+	<g id="POLYLINE_988_">
+		
+			<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="229.786" y1="360.046" x2="216.645" y2="352.459"/>
+	</g>
+	<g id="POLYLINE_987_">
+		
+			<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="216.645" y1="696.397" x2="216.645" y2="352.459"/>
+	</g>
+	<g id="POLYLINE_986_">
+		
+			<line fill="none" stroke="#1ABC9C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="229.786" y1="703.984" x2="216.645" y2="696.397"/>
+	</g>
+</g>
+<g id="AG-DOORS">
+</g>
+<g id="AG-DASH">
+	<g id="POLYLINE_965_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="295.254" y1="325.844" x2="298.285" y2="324.094"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="304.277" y1="320.634" x2="517.001" y2="197.818"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="519.998" y1="196.088" x2="523.029" y2="194.338"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_374_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="303.578" y1="336.12" x2="306.609" y2="334.37"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="312.602" y1="330.911" x2="525.326" y2="208.094"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="528.322" y1="206.364" x2="531.353" y2="204.614"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_373_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="307.644" y1="345.988" x2="310.675" y2="344.238"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="316.667" y1="340.778" x2="529.392" y2="217.961"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="532.388" y1="216.232" x2="535.419" y2="214.482"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_372_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="282.014" y1="316.86" x2="285.046" y2="315.11"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="291.038" y1="311.65" x2="503.762" y2="188.834"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="506.758" y1="187.104" x2="509.789" y2="185.354"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_371_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="268.277" y1="308.928" x2="271.308" y2="307.178"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="277.3" y1="303.719" x2="490.024" y2="180.902"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="493.021" y1="179.173" x2="496.052" y2="177.423"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_370_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="254.539" y1="300.997" x2="257.57" y2="299.247"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="263.562" y1="295.787" x2="476.287" y2="172.971"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="479.283" y1="171.241" x2="482.314" y2="169.491"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_369_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="240.801" y1="293.065" x2="243.832" y2="291.315"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="249.824" y1="287.856" x2="462.549" y2="165.039"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="465.545" y1="163.31" x2="468.576" y2="161.56"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_368_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="227.063" y1="285.134" x2="230.094" y2="283.384"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="236.087" y1="279.924" x2="448.811" y2="157.108"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="451.807" y1="155.378" x2="454.838" y2="153.628"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_367_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="213.326" y1="277.202" x2="216.357" y2="275.452"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="222.349" y1="271.993" x2="435.073" y2="149.176"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="438.07" y1="147.447" x2="441.101" y2="145.697"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_366_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="199.588" y1="269.271" x2="202.619" y2="267.521"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="208.611" y1="264.061" x2="421.336" y2="141.245"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="424.332" y1="139.515" x2="427.363" y2="137.765"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_365_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="185.85" y1="261.339" x2="188.881" y2="259.589"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="194.874" y1="256.13" x2="407.598" y2="133.313"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="410.594" y1="131.583" x2="413.625" y2="129.833"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_364_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="309.361" y1="360.621" x2="312.393" y2="358.871"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="318.385" y1="355.411" x2="531.109" y2="232.595"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="534.105" y1="230.865" x2="537.136" y2="229.115"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_363_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="309.361" y1="376.246" x2="312.393" y2="374.496"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="318.385" y1="371.036" x2="531.109" y2="248.22"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="534.105" y1="246.49" x2="537.136" y2="244.74"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_362_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="309.361" y1="391.871" x2="312.393" y2="390.121"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="318.385" y1="386.661" x2="531.109" y2="263.845"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="534.105" y1="262.115" x2="537.136" y2="260.365"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_361_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="309.361" y1="407.496" x2="312.393" y2="405.746"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="318.385" y1="402.286" x2="531.109" y2="279.47"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="534.105" y1="277.74" x2="537.136" y2="275.99"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_360_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="309.361" y1="423.121" x2="312.393" y2="421.371"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="318.385" y1="417.911" x2="531.109" y2="295.095"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="534.105" y1="293.365" x2="537.136" y2="291.615"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_359_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="309.361" y1="438.746" x2="312.393" y2="436.996"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="318.385" y1="433.536" x2="531.109" y2="310.72"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="534.105" y1="308.99" x2="537.136" y2="307.24"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_358_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="309.361" y1="454.371" x2="312.393" y2="452.621"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="318.385" y1="449.161" x2="531.109" y2="326.345"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="534.105" y1="324.615" x2="537.136" y2="322.865"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_357_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="309.361" y1="469.996" x2="312.393" y2="468.246"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="318.385" y1="464.786" x2="531.109" y2="341.97"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="534.105" y1="340.24" x2="537.136" y2="338.49"/>
+			</g>
+		</g>
+	</g>
+	<g id="POLYLINE_356_">
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="309.361" y1="485.621" x2="312.393" y2="483.871"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6.9192,6.9192" x1="318.385" y1="480.411" x2="531.109" y2="357.595"/>
+				
+					<line fill="none" stroke="#1ABC9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="534.105" y1="355.865" x2="537.136" y2="354.115"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="AG-PEOPLE">
+</g>
+<g id="AG-TRANSPORT">
+</g>
+<g id="AG-OUTLINE">
+	<g id="POLYLINE_355_">
+		
+			<polygon fill="none" stroke="#1ABC9C" stroke-width="3.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			537.136,369.74 537.136,243.292 322.502,367.211 322.502,493.659 		"/>
+	</g>
+</g>
+</svg>

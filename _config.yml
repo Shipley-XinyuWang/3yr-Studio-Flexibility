@@ -52,7 +52,9 @@ minima:
 
 # Build settings
 theme: minima
-
+header_pages:
+  - projects.md
+  - about.md
 plugins:
  - jekyll-feed
  - jekyll-seo-tag

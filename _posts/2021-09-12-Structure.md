@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Research"
+title: "Structure"
 categories:
 author:
 - Shipley
 meta:
 ---
-Hi everyone.
-
 Here are some interesting structure.
 ######1.Bed
 ![bed](https://raw.githubusercontent.com/Shipley-XinyuWang/3yr-Studio-Flexibility/master/assets/bed/H94b0dbd0482d496d84a55d.jpg)
@@ -22,3 +20,4 @@ Here are some interesting structure.
 ######5.Wheel
 ![wheel](https://github.com/Shipley-XinyuWang/3yr-Studio-Flexibility/blob/master/assets/Structure/electric-retract-for-glider-1-5_2.jpg?raw=true)
 ######6.Swiss Army Knife
+![swiss](https://github.com/Shipley-XinyuWang/3yr-Studio-Flexibility/blob/master/assets/AthertonPavilions_Plan%20new.png?raw=true)

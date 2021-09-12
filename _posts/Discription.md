@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
-categories: junk
+title: "Discription"
+categories:
 author:
-- Bart Simpson
-- Nelson Mandela Muntz
-meta: "Springfield"
+- Shipley
+meta:
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
 ## Some great heading (h2)
 

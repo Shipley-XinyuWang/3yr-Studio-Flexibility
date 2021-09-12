@@ -13,8 +13,13 @@ Home is a space that people can complete all activities they need including slee
 
 Definition of clients:
 
-Stage of life: young people do not have enough money to purchase a settled home. Personal interest:  people who like traveling. People who want to place different function by themselves. The number of clients: one to two persons.
+Stage of life: young people do not have enough money to purchase a settled home. Personal interest:  people who like traveling. People who want to place different function by themselves.
+
+The number of clients: one to two persons.
 
 Hypothetical site:
 
 A standalone site- very small residual site for a single, standalone residence.
+Saratoga Springs in Utah.
+
+40.3221103,-111.8951789

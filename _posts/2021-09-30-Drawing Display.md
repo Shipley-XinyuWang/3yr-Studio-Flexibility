@@ -71,12 +71,6 @@ C-C' Section3
 
 First sketch
 
-  <a href=""> <img src="https://raw.githubusercontent.com/Shipley-XinyuWang/3yr-Studio-Flexibility/master/assets/P1.jpg" alt="HTML tutorial" style="width:1080px;"></a>
+  <a href=""> <img src="https://raw.githubusercontent.com/Shipley-XinyuWang/3yr-Studio-Flexibility/master/assets/P3.jpg" alt="HTML tutorial" style="width:1080px;"></a>
 
 Second sketch
-
-    <a href=""> <img src="https://raw.githubusercontent.com/Shipley-XinyuWang/3yr-Studio-Flexibility/master/assets/P2.jpg" alt="HTML tutorial" style="width:1080px;"></a>
-Third sketch
-
-    <a href=""> <img src="https://raw.githubusercontent.com/Shipley-XinyuWang/3yr-Studio-Flexibility/master/assets/P3.jpg" alt="HTML tutorial" style="width:1080px;"></a>
-Third sketch

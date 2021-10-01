@@ -8,12 +8,17 @@ meta:
 ---
 #### Flexibility--Xinyu Wang Shipley
 
-Floor Area (in both m² and sf):
-Interior Volume:
-Site Address/Type:
-Material/Construction/Assembly:
-Typical Owner:
+Floor Area (in both m² and sf): 59.085m²  636sf
+Interior Volume:166.793m³
+Site Address/Type:[40.3221103,-111.8951789][14bd0773]
+
+  [14bd0773]: https://www.google.com/maps/@40.3221103,-111.8951789,119m/data=!3m1!1e3 "site"
+A standalone site- very small residual site for a single, standalone residence.
+Saratoga Springs in Utah.
+Material/Construction/Assembly:Concrete, GFRP, metal, steel.
+Typical Owner: young people who have enough money to purchase a settled home.But there is the lack of houses that people need to find a home to live. Personal interest:  People who want to place different function by themselves.
 Discription:
+
 
 ## GIF
 

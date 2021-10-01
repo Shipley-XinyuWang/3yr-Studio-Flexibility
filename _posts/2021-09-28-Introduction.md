@@ -13,7 +13,7 @@ Home is a space that people can complete all activities they need including slee
 
 Definition of clients:
 
-Stage of life: young people do not have enough money to purchase a settled home. Personal interest:  people who like traveling. People who want to place different function by themselves.
+Stage of life: young people who have enough money to purchase a settled home.But there is the lack of houses that people need to find a home to live. Personal interest:  People who want to place different function by themselves.
 
 The number of clients: one to two persons.
 

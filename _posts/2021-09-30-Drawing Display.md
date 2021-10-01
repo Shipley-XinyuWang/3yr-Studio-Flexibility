@@ -9,15 +9,20 @@ meta:
 #### Flexibility--Xinyu Wang Shipley
 
 Floor Area (in both m² and sf): 59.085m²  636sf
+
 Interior Volume:166.793m³
+
 Site Address/Type:[40.3221103,-111.8951789][14bd0773]
 
   [14bd0773]: https://www.google.com/maps/@40.3221103,-111.8951789,119m/data=!3m1!1e3 "site"
 A standalone site- very small residual site for a single, standalone residence.
 Saratoga Springs in Utah.
 ![Site](https://github.com/Shipley-XinyuWang/3yr-Studio-Flexibility/blob/master/assets/Site.jpg?raw=true)
+
 Material/Construction/Assembly:Concrete, GFRP, metal, steel.
+
 Typical Owner: young people who have enough money to purchase a settled home.But there is the lack of houses that people need to find a home to live. Personal interest:  People who want to place different function by themselves.
+
 Discription:
 Flexibility, an ADU with three options for flexible interior space and controllable exterior sunlight.  Its site is located in an area where housing shortage has skyrocketed due to rapid population growth.  In fact, I chose site as the east-west line of this point, because the terrain here extends from west to east from high to low and terminates at the salt lake. Among them, the gentle slope mountain, the neighbor's back garden and the coastal Green space are all areas where there is no house construction. From the Angle of the mountain,  The soft soil along the coast and the narrow privacy of the back garden are important factors for uninhabited and construction.  On the basis of this problem, the houses built at different heights can adapt to different terrain and environment.  Thus, a columnar structure in the middle supports the entire house, reflecting the design's flexibility to the environment.  For the application of circular shape and glass curtain wall, the purpose is to better let the sunshine into the room, so as to avoid daylighting is restricted, glass curtain wall for mobile devices at the same time, out the door, mobile wall to the outermost layer of the balcony, curtains hung on in order to realize the real light controlled, embodies the flexibility of the project on the photo.  Influenced by the Swiss Army Knife, the interior furniture adopts rotating folding and retractable furniture, which can save a lot of space for free activities when folded. When folded out, it can create its own internal space design according to the needs of residents and preferences of space utilization, so as to achieve the flexibility of residents and internal space.  The Heat system uses the Ground source Heat pump system, which could lower your fuel bills,reduce your household carbon footprint, and heat your home as well as your water
 Ducted Air-Source Heat Pumps
@@ -83,7 +88,7 @@ Third Sketch
 ![](https://raw.githubusercontent.com/Shipley-XinyuWang/3yr-Studio-Flexibility/master/assets/P1.jpg)
 Furniture Sketch
 
-##Precedents
+## Precedents
 ###### Swiss Army Knife
 ![](https://github.com/Shipley-XinyuWang/3yr-Studio-Flexibility/blob/master/assets/reference/AthertonPavilions_Plan%20new.png?raw=true)
 ###### aVOID

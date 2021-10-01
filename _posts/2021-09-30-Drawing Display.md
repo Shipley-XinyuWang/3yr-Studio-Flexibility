@@ -16,15 +16,16 @@ Typical Owner:
 Discription:
 ##### Plan
 <a href=""> <img src="https://raw.githubusercontent.com/Shipley-XinyuWang/3yr-Studio-Flexibility/master/assets/Plan1.0%20%5B%E8%BD%AC%E6%8D%A2%5D.jpg" alt="HTML tutorial" style="width:1080px;"></a>
-  <font size="1"> Plan1
+Plan1
 
 
 <a href=""> <img src="https://raw.githubusercontent.com/Shipley-XinyuWang/3yr-Studio-Flexibility/master/assets/Plan2.0%20%5B%E8%BD%AC%E6%8D%A2%5D.jpg" alt="HTML tutorial" style="width:1080px;"></a>
 Plan2
+
 ## Section
 
 <a href=""> <img src="https://github.com/Shipley-XinyuWang/3yr-Studio-Flexibility/blob/master/assets/section1%20%5B%E8%BD%AC%E6%8D%A2%5D.jpg?raw=true" alt="HTML tutorial" style="width:1080px;"></a>
-  <font size="2">A-A' Section1
+A-A' Section1
 
 
 <a href=""> <img src="https://github.com/Shipley-XinyuWang/3yr-Studio-Flexibility/blob/master/assets/Section2%20%5B%E8%BD%AC%E6%8D%A2%5D.jpg?raw=true" alt="HTML tutorial" style="width:1080px;"></a>
@@ -68,14 +69,14 @@ C-C' Section3
 
 <a href=""> <img src="https://raw.githubusercontent.com/Shipley-XinyuWang/3yr-Studio-Flexibility/master/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210910033012.jpg" alt="HTML tutorial" style="width:1080px;"></a>
 
-  <font size="2">First sketch
+First sketch
 
   <a href=""> <img src="https://raw.githubusercontent.com/Shipley-XinyuWang/3yr-Studio-Flexibility/master/assets/P1.jpg" alt="HTML tutorial" style="width:1080px;"></a>
 
-    <font size="2">Second sketch
+Second sketch
 
     <a href=""> <img src="https://raw.githubusercontent.com/Shipley-XinyuWang/3yr-Studio-Flexibility/master/assets/P2.jpg" alt="HTML tutorial" style="width:1080px;"></a>
-    <font size="2">Third sketch
+Third sketch
 
     <a href=""> <img src="https://raw.githubusercontent.com/Shipley-XinyuWang/3yr-Studio-Flexibility/master/assets/P3.jpg" alt="HTML tutorial" style="width:1080px;"></a>
-    <font size="2">Third sketch
+Third sketch

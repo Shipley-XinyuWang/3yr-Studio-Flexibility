@@ -77,10 +77,15 @@ C-C' Section3
 First sketch
 
   <a href=""> <img src="https://raw.githubusercontent.com/Shipley-XinyuWang/3yr-Studio-Flexibility/master/assets/P3.jpg" alt="HTML tutorial" style="width:1080px;"></a>
-
 Second sketch
-##Precedents
+![](https://github.com/Shipley-XinyuWang/3yr-Studio-Flexibility/blob/master/assets/P2.jpg?raw=true)
+Third Sketch
+![](https://raw.githubusercontent.com/Shipley-XinyuWang/3yr-Studio-Flexibility/master/assets/P1.jpg)
+Furniture Sketch
 
+##Precedents
+###### Swiss Army Knife
+![](https://github.com/Shipley-XinyuWang/3yr-Studio-Flexibility/blob/master/assets/reference/AthertonPavilions_Plan%20new.png?raw=true)
 ###### aVOID
 ![Unfolded bed](https://raw.githubusercontent.com/Shipley-XinyuWang/3yr-Studio-Flexibility/master/assets/double-bed-avoid-768x579.jpg)
 [Youtube link: This Tiny Mobile House Is Like a Swiss Army Knife With Furniture Popping Out of the Walls][a7df1b52]

@@ -62,4 +62,8 @@ C-C' Section3
 
   <font size="2">First sketch
 
-  
+  <a href=""> <img src="https://raw.githubusercontent.com/Shipley-XinyuWang/3yr-Studio-Flexibility/master/assets/P1.jpg" alt="HTML tutorial" style="width:420px;"></a>
+
+    <font size="2">First sketch
+
+    <a href=""> <img src="https://raw.githubusercontent.com/Shipley-XinyuWang/3yr-Studio-Flexibility/master/assets/P2.jpg" alt="HTML tutorial" style="width:420px;"></a>
